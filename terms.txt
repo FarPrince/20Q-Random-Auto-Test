@@ -15,13 +15,10 @@ Rogerian argument:Arguments based on the assumption that having a full understan
 Claims of Fact:Assert that something is true or not true
 Claims of Value:Most common type of claim, which argues that something is good or bad, right or wrong, desirable or undesirable.
 Claims of Policy:Usually calls for some direct action to take place, but it may simply be a recommendation for a change in attitude or viewpoint.
-Relevant evidence:evidence that specifically applies to the argument being made.
-Accurate evidence:Evidence from a credible source.
-Sufficient evidence:Enough evidence to support your thesis
-Introduction:introduces the reader to the subject under discussion (Classical Oration)
+Introduction:Introduces the reader to the subject under discussion (Classical Oration)
 Narration:Provides factual information and background material on the subject at hand, thus beginning the developmental paragraphs, or establishes why the subject is a problem that needs addressing. (Classical Oration)
-Confirmation:usually the major part of the text, includes the development or the proof needed to make the writer's case (Classical Oration)
-Refutation:addresses the counterargument, is in many ways a bridge between the writer's proof and conclusion. (Classical Oration)
+Confirmation:Usually the major part of the text, includes the development or the proof needed to make the writer's case (Classical Oration)
+Refutation:Addresses the counterargument, is in many ways a bridge between the writer's proof and conclusion. (Classical Oration)
 Conclusion:Brings the essay to a satisfying close (Classical Oration)
 Classic oration:Classical rhetoricians outlined a five-part structure for an oratory, or speech, that writers still use today
 Rhetoric:The art of effective or persuasive speaking or writing, especially while using figurative speech or other compositional techniques.
