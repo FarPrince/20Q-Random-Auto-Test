@@ -1,0 +1,151 @@
+Red Herring:When a speaker transitions to a new subject to avoid arguing the current topic of discussion.
+Faulty analogy:When a speaker compares two things to make a point, but the two things being compared are not comparable.
+The equivocation fallacy/ambiguous fallacy:When a speaker uses terms with vague or multiple meanings to mislead an audience.
+The evidence/support/grounds:Support for the validity of the claim. (Toulmin)
+Ex. It is raining outside
+The warrant/assumption:Links the claim to the evidence. (Toulmin)
+The backing:More evidence that adds to the authority of the warrant. (Toulmin)
+Ex. Umbrellas are made out of a waterproof material
+The qualifier:A reminder that the claim is arguable rather than fact (usually, probably, most likely, etc.) (Toulmin)
+Ex. As in, it will probably keep me dry unless...
+The reservation:The terms and conditions of the argument based on the qualifier. (Toulmin)
+Ex. ...it has a hole in it
+Argument:A persuasive discourse, a coherent and considered movement from a claim to a conclusion
+Rogerian argument:Arguments based on the assumption that having a full understanding of an opposing position is essential to responding to it persuasively and refuting it in a way that is accommodating rather than alienating or antagonizing
+Claims of Fact:Assert that something is true or not true
+Claims of Value:Most common type of claim, which argues that something is good or bad, right or wrong, desirable or undesirable.
+Claims of Policy:Usually calls for some direct action to take place, but it may simply be a recommendation for a change in attitude or viewpoint.
+Relevant evidence:evidence that specifically applies to the argument being made.
+Accurate evidence:Evidence from a credible source.
+Sufficient evidence:Enough evidence to support your thesis
+Introduction:introduces the reader to the subject under discussion (Classical Oration)
+Narration:Provides factual information and background material on the subject at hand, thus beginning the developmental paragraphs, or establishes why the subject is a problem that needs addressing. (Classical Oration)
+Confirmation:usually the major part of the text, includes the development or the proof needed to make the writer's case (Classical Oration)
+Refutation:addresses the counterargument, is in many ways a bridge between the writer's proof and conclusion. (Classical Oration)
+Conclusion:Brings the essay to a satisfying close (Classical Oration)
+Classic oration:Classical rhetoricians outlined a five-part structure for an oratory, or speech, that writers still use today
+Rhetoric:The art of effective or persuasive speaking or writing, especially while using figurative speech or other compositional techniques.
+Rhetorical Situation:The set of circumstances surrounding people who are using some method of communication to influence or modify the perspective of other people
+Circumstances of rhetoric situation:Speaker, Occasion/exigence, Audience, Purpose, Subject, Tone
+Chiasmus:Grammatical structure of the first clause or phrase is reversed, sometimes repeating the same words.
+Ex. "And so, my fellow Americans, ask not what your country can do for you; ask what you can do for your country."
+Antithesis:The juxtaposition of contrasting ideas.
+Ex. "Our knowledge separates as well as unites; our orders disintegrate as well as bind; our art brings us together and sets us apart."
+Asyndeton:Conjunctions are omitted creating a fast-paced, rapid style of prose writing.
+Ex. "I came, I saw, I conquered."
+Polysyndeton:The use of many conjunctions to make writing slower and more methodical.
+Ex. "...when the older boys played their mandolins and the girls sang and we ate doughnuts dipped in sugar, and how sweet the music was on the water and what it had felt like to think about girls then."
+Parallelism:Expressing similar or related ideas in similar grammatical structure.
+Ex. "we mutually pledge to each other our Lives, our Fortunes, and our sacred Honor."
+Apposition:The placing next to a noun or a or noun phrase that further explains it. (i.e. using an appositive)
+Ex. "Pollution, the city's primary problem, has been an issue for decades"
+Zeugma:The use of a word to modify or govern two or more words when it is appropriate to only one of them or is appropriate to each but in different ways.
+Ex. "He held his temper, and her hand."
+Metonymy:The use of an associated term as a symbolic stand in for a literal term or concept.
+Ex. "The pen is mightier than the sword."
+Synecdoche:Phrasing that substitutes a part for the whole or a whole for the part.
+Ex. "Dad bought me a new set of wheels for my birthday."
+Scheme:Strategies classified as schemes are arrangements of words, ideas, or phrases that are stylistically effective (How words appear)
+Ex. Parallelism, Apposition, Chiasmus
+Trope:Strategies classified as tropes involve alterations to the usual meanings of words or phrases. (What the words mean)
+Ex. Pun, Metaphor, Simile
+Anadiplosis:The rhetorical repetition of the word or phrase that ends one phrase and serves as the beginning of the next phrase.
+Ex. "Spare me your words; words are not what I need."
+Anaphora:The repetition of a word or phrase at the beginning of successive sentences, phrases, or clauses.
+Ex. "Give me liberty, or give me death."
+Anastrophe:In standard parlance and writing the adjective comes before the noun but when one is employing an anastrophe the noun may be followed by the adjective, etc.
+Ex. "Brave he stood in the face of danger. Strong he stood as the enemy approached."
+Allusion:A reference to some familiar event in HISTORY or to some familiar expression or character in LITERATURE, THE BIBLE, or MYTHOLOGY.
+Ex. "Homework is my Achilles heel."
+Tone:A writer's or speaker's attitude toward the subject and the audience.
+Symbolism:A literal and sensuous quality or item representing an abstract or suggestive aspect.
+Conventional symbolism:Many societies/cultures believe it.
+Ex. Cross - Christianity
+Natural symbolism:The item naturally contains the quality it symbolizes.
+Ex. Light - Truth
+Private symbolism:Has meaning for some.
+Ex. Mom's gold chain
+Logos (rational appeal):Offering clear, logical, and rational ideas.
+Uses specific details, examples, facts, statistics, or expert testimony.
+Ethos (ethical appeal):Demonstrates they are credible, trustworthy, and of good moral character who shares strong values with the audience.
+Uses language that shows the speaker is a well-informed person of goodwill, good sense, and good moral character
+Pathos (emotional appeal):Engaging the emotions, desires, hopes, fears, and prejudices of the audience.
+Frequently uses figurative language, vivid images, personal anecdotes, and words with strong connotations.
+Theme:The central message or idea of a text that is usually implied by the speaker/writer but not directly stated.
+Ex. The vanity of the indigent seeking upward financial mobility in a capitalistic society.
+Jargon:Language broadly associated with a subject, occupation, or business.
+Ex. "Lots of airlines are buying smaller twins to fly long and skinny transcons."
+Colloquialism:The use of informal, conversational words or phrases, sometimes varying from region to region, in place of formal, literary diction.
+Ex. "He's gonna grab a cold pop from the fridge."
+Sententia:The use of a famous saying, proverb, or maxim, due to its popularity and accepted truth, to support one's argument.
+Ex. "Fool me once, shame on you; fool me twice, shame on me."
+Epanalepsis:The repetition of a word or phrase at the beginning and end of the same clause.
+Ex. "A minimum wage that is not livable can never be a minimum wage."
+Pathetic Fallacy:The attribution of human qualities to forces of nature.
+Ex. ¨In contrast to the roaring of the hurricane, the breezes in the eye of the storm barely whispered to the frightened trailer court residents huddled beneath the jammed storm cellar door.¨
+Personification:The attribution of human qualities to inanimate objects, abstract ideas, or non-human forms.
+Ex. ¨The grass is green and neatly cut, and the buildings cast a watchful eye over the clean, quiet campus. ¨
+Apostrophe:The addressing of the absent as present of the inanimate or inhuman as if it could hear or understand.
+Ex. "Rain, Rain, go away!"
+Symploce:The simultaneous use of both anaphora and epistrophe in two or more successive clauses.
+Ex. "We are not a red America. We are not a blue America. We are the United States of America."
+Antiphrasis:The utilization of a word or phrase to mean its opposite. Commonly used in irony and sarcasm.
+Ex. "Hey! That was my uneaten lunch that you just brilliantly kicked."
+Rhetorical Question:Trope that is commonly defined as a question that does not require an answer.
+Hypophora:The writer asks a question and then proceeds to answer it.
+Ex. "Why has the incidence of rape increased in our society? Studies show it is a portrayal of violence and sex on television."
+Inductive Reasoning:The arrangement of an argument so that it leads from particular situations into universal conclusions.
+Method of collecting evidence on which to base a GENERALIZATION or CLAIM.
+Ex. If you interview 100 people about the school dress code and 75% don't want to change it, you can assume in an INDUCTIVE LEAP and argue why the dress code shouldn't be changed.
+Deductive Reasoning:Works from a general statement to a particular case.
+Syllogism:Three-step form of reasoning, the basis of deduction
+MAJOR PREMISE (Assumption) + MINOR PREMISE (Evidence) = CONCLUSION (Thesis)
+Ex. Humans are mortal. + Evan is a human. = Evan is mortal.
+Logical Fallacy:An error in reasoning that leads to a wrong conclusion.
+Non Sequitur:Stating a conclusion that does not follow from one or both premises.
+Ex. "I've lived in this town for a long time. My grandfather was one of the first settlers. I can attest that the last thing we need in our drinking water is fluoride."
+Begging the Question/Circular reasoning:Taking for granted from the start what you set out to demonstrate.
+Ex. "Dogs are a menace to people because they are dangerous."
+False Cause/Post Hoc Reasoning:Erroneously arguing that because B follows A, B was caused by A.
+Ex. "Ever since the city suspended height restrictions on skyscrapers, the city's budget has been balanced."
+Argument Ad Hominem:Attacking a person's views by attacking his or her character
+Ex. "How can Sarah Palin know what's best for our schools? Her son was arrested for domestic violence. She can't even take care of her own family."
+Oversimplification:The supplying of neat and easy explanations for complex and complicated issues and situations
+Ex. "It's no wonder why the drug problem is out of control; look at how the courts have hobbled police officers."
+False Dichotomy/Either Or Reasoning/False dilemma:Assumes that a given reality can be easily divided into two possible solutions or outcomes.
+Ex. "What's to be done about the trade imbalance with Asia? If we don't ban all Asian imports, American industry will collapse"
+Hasty Generalization:When a speaker comes to a quick and simple generalization based on insufficient, faulty, or anecdotal evidence from one event.
+Ex. "Men aren't sensitive enough to be Kindergarten teachers."
+Strawman Argument:Giving the impression that the opponent's argument is being refuted without actually ever refuting the opponent's argument.
+Ex. 
+Politician #1: "My plan states we need to control military spending to focus more on programs for the elderly and homeless."
+Politician #2: "Politician #1, if you want to leave our nation defenseless against our enemies, that's your right, but none of my budget plans include leaving us open for attack from terrorists."
+Meiosis:Meiosis can be defined as a witty understatement that belittles or dismisses something or somebody; particularly by making use of terms that give an impression that something is less important than it is or it should be.
+Ex. An insane person stating, "I fear I may not be in my perfect mind today," before they go an murder their entire family. (Shakespeare)
+Malapropism:The intentional use of an incorrect word in place of a similar sounding word to result in a nonsensical, humorous, or inappropriate expression. Can be used effectively in satire.
+Ex. "Some may say that most politicians are suppositories of misinformation." (The correct word would be repository; a suppository is medication taken anally.)
+Anecdote:A short and interesting story, or account of an amusing event, often proposed to support of demonstrate a larger point, and frequently to make an audience laugh, disclose a truth in a general way, or give the audience an illustrated understanding of an idea
+Epithet:A term used to characterize a person or a thing. Also, a term used as a descriptive substitute. Can have a negative connotation (thing "racial epithet" etc.)
+Ex. "He was a rosy-fingered magician."
+Double Entendre:Scheme in which a phrase may have multiple interpretations, meanings, or senses that could be understood in varying ways. Usually the first interpretation is straightforward, while the second is risque, ironic, sarcastic, or inappropriate.
+Ex. "They say marriage is a fine institution, but I'm not ready for an institution yet." (Marriage vs. Mental Institution)
+Pleonasm:The use of two or more words to express an idea. The words are frequently redundant. The adjective to describe the writing is "pleonastic". Used primarily for emphasis or reinforcement
+Ex. "This was the most unkindest cut of all . . ."
+Parody:An imitation of the style of a particular writer, artist, or genre with deliberate exaggeration for comic effect.
+Satire/Satirical Rhetoric:Strategy employed by writers to expose the foolishness or corruption of an individual, group, or society by using humor, irony, parody, exaggeration, and ridicule.
+Juxtaposition:The placing of two different things or concepts side by side for the purpose/effect of comparison or contrast.
+Ex. "There they stood together, the beggars and the lords, the princesses and the washerwomen, all in the same town square."
+Analysis:To examine methodically and in detail the constitution or structure of something (especially information), typically for purposes of explanation and interpretation.
+Inference:To deduce or conclude (information) from evidence and reasoning rather than from explicit statements.
+Synthesis:To combine (a number of things) into a coherent whole.
+Evaluation:To form an idea of the amount, number, or value of something; to assess.
+Closed Thesis Statement:The statement of the main idea of the argument that also previews the major points the speaker intends to make.
+Open Thesis Statement:Thesis that does not list all the specific details the writer intends to cover.
+Counter-Argument Thesis Statement:Thesis where a summary of the counter-argument, usually qualified with an although or but, precedes the speaker's opinion.
+Appeal to false authority:Someone or something is used to defend an argument, having no qualification to do so.
+The Toulmin Model:Presents how looking at a speaker's ASSUMPTIONS can help us see the logical progression (or lack thereof) of his or her argument.
+6 parts: the claim, evidence/support/grounds, warrant/assumption, backing, qualifier, reservation
+The claim:An arguable assertion. (Toulmin)
+Ex. I should take my umbrella to work
+The warrant/assumption (Toulmin):Links the claim to the evidence.
+Ex. An umbrella will keep me dry in the rain
